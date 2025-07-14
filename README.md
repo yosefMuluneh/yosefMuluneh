@@ -120,9 +120,9 @@ Here are some of the technologies I work with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YosefMuluneh85&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Yosef's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yosefMuluneh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Yosef's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosefMuluneh85&layout=compact&langs_count=8&theme=dracula" alt="Yosef's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosefs-projects-cd037f5b&layout=compact&langs_count=8&theme=dracula" alt="Yosef's Top Languages" />
 </p>
 
 ---
